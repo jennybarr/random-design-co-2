@@ -82,6 +82,7 @@ section.latest-work {
 
 section.latest-work h4 {
   margin-bottom: 40px;
+  z-index: 1;
 }
 
 section.latest-work {
@@ -90,12 +91,12 @@ section.latest-work {
 }
 
 section.latest-work img {
-  width: 450px;
   position: relative;
 }
 
 section.latest-work article {
   float: left;
+  width: 49%
 }
 
 h5 {
